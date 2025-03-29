@@ -17,7 +17,8 @@ related to Rejoice Proptech, and its projects.
 
 Feel free to explore the contents below
 
-- [Git Related](/git_related)
+- [Git Related](/git_related) : Folder where all
+  the git related content will be uploaded
 
 PS: The README has been tested locally before
 pushed to the repo using
